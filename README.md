@@ -19,3 +19,7 @@ To get started, follow these steps:
 4. Run `npm install` to install the dependencies.
 5. Run `npx prisma migrate dev` to generate your database tables.
 6. Run `npm run dev` to start the web server.
+
+---
+
+- $ Run 'openssl rand -base64 32' to generate a secret.
